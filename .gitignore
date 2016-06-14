@@ -1,6 +1,9 @@
 # Ignore all hidden dotfiles
 .*
 
+# Hide all .gzip
+*.gzip
+
 # Whitelist useful dotfiles
 !/.scss-linters/
 !/.babelrc
